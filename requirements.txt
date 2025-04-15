@@ -1,0 +1,8 @@
+selenium
+pyspark
+numpy
+opencv-python
+matplotlib
+jupyterlab
+
+
